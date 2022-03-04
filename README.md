@@ -1,3 +1,5 @@
 # Spectral Forecast in JS, C#, Python, PHP, VB
 
 This project uses my own mathematical model published in the journal Chaos. The model is called Spectral Forecast. The Spectral Forecast equation is a part of the Spectral Forecast model and it was initially used on matrices. It can also be used on other multidimensional mathematical objects. Here, a novel utility is demonstrated for signals by using the equation on vectors. This new use on 1-dimensional objects was published here. Combining-two-signals-in-JS-C-Py-PHP-VB - is a demo implementation designed in five different programming / scripting languages, namely C#, Python, VB6, Javascript and PHP. Each implementation is able to mix two signals/vectors (A and B) in arbitrary proportions. The signals are combined depending on a value <i>d</i>, called a distance. This distance <i>d</i> was arbitrary chosen (<i>d</i>=33) and <i>Max(d)</i> is defined from zero to the maximum value found above the two vectors that represent these signals.
+
+![screenshot](https://github.com/Gagniuc/Combining-two-signals-in-JS-C-Py-PHP-VB/blob/main/spectral%20forecast%20signals.png?raw=true)
